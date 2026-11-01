@@ -1,0 +1,21 @@
+## Seed2lp
+
+15 organismos seleccionados
+ancla: Enterococcus faecalis
+
+resto 
+Enterococcus_faecalis_ATCC_29212.xml
+Eggerthella_lenta_A2.xml
+Eggerthella_lenta_DSM_2243.xml
+Eggerthella_lenta_DSM_11767.xml
+Enterococcus_faecium_504.xml
+Clostridium_sporogenes_ATCC_15579.xml
+Bacteroides_thetaiotaomicron_7330.xml
+Bacteroides_fragilis_638R.xml
+Faecalibacterium_prausnitzii_A2_165.xml
+Roseburia_intestinalis_L1_82.xml
+Akkermansia_muciniphila_ATCC_BAA_835.xml
+Bifidobacterium_longum_DJO10A.xml
+Prevotella_copri_CB7_DSM_18205.xml
+Parabacteroides_distasonis_ATCC_8503.xml
+Escherichia_coli_042.xml
