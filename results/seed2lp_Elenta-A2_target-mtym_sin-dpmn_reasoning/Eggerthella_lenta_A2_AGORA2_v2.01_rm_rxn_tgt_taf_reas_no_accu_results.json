@@ -1,0 +1,50 @@
+{
+	"OPTIONS": {
+		"REACTION": "Remove Import Reaction",
+		"TARGET": "Targets are forbidden seeds",
+		"FLUX": "With flux",
+		"ACCUMULATION": "Forbidden"
+	},
+	"NETWORK": {
+		"NAME": "Eggerthella_lenta_A2_AGORA2_v2.01",
+		"OBJECTIVE": [
+			[
+				"Eggerthella_lenta_A2_AGORA2_v2.01",
+				"R_bio1"
+			]
+		],
+		"SEARCH_MODE": "Target",
+		"SOLVE": "REASONING"
+	},
+	"USER DATA": {
+		"TARGETS": [
+			"M_mtym_e"
+		],
+		"FORBIDDEN SEEDS": [
+			"M_dpmn_e",
+			"M_mtym_e",
+			"M_mtym_e"
+		]
+	},
+	"RESULTS": {
+		"REASONING": {
+			"SUBSET MINIMAL ENUMERATION": {
+				"Timer": {
+					"Solving time": 4.801
+				},
+				"solutions": {
+					"model_1": {
+						"size": 5,
+						"Set of seeds": [
+							"M_h2o_e",
+							"M_levdopa_c",
+							"M_nadh_c",
+							"M_sepptrn_c",
+							"M_xmp_c"
+						]
+					}
+				}
+			}
+		}
+	}
+}

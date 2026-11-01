@@ -1,0 +1,274 @@
+INFO 2026-11-01 14:15:11,684 [MainProcess]: Seed2LP version: 2.1.2
+INFO 2026-11-01 14:15:11,889 [MainProcess]: 
+Finding objective ...
+INFO 2026-11-01 14:15:11,889 [MainProcess]: Objective found for Eggerthella_lenta_A2_AGORA2_v2.01: [1mR_bio1[0m
+INFO 2026-11-01 14:15:11,890 [MainProcess]: Targets set:
+    Metabolites from target file
+
+INFO 2026-11-01 14:15:11,890 [MainProcess]: Objective set:
+-    Objective reaction from SBML file
+        Objective : R_bio1
+INFO 2026-11-01 14:15:11,890 [MainProcess]: Import reaction:  Removed
+INFO 2026-11-01 14:15:11,890 [MainProcess]: Targets can be seeds:  No
+INFO 2026-11-01 14:15:11,890 [MainProcess]: Accumulation:  Forbidden
+INFO 2026-11-01 14:15:11,890 [MainProcess]: Network normalisation in progress...
+INFO 2026-11-01 14:15:11,890 [MainProcess]: Can take several minutes
+WARNING 2026-11-01 14:15:11,911 [MainProcess]: 
+ - R_dreplication: Deleted.
+     Not reversible import reaction.
+ - R_pbiosynthesis: Deleted.
+     Not reversible import reaction.
+ - R_rtranscription: Deleted.
+     Not reversible import reaction.
+
+INFO 2026-11-01 14:15:11,911 [MainProcess]: 
+ - R_sink_PGPm1_c_: Reversibility modified.
+ - R_EX_chol_e_: Reversibility modified.
+ - R_EX_crn_e_: Reversibility modified.
+ - R_EX_dopa_e_: Reversibility modified.
+ - R_EX_ocdca_e_: Reversibility modified.
+ - R_EX_zn2_e_: Reversibility modified.
+ - R_EX_glyc3p_e_: Reversibility modified.
+ - R_EX_alltn_e_: Reversibility modified.
+ - R_EX_bz_e_: Reversibility modified.
+ - R_EX_mqn7_e_: Reversibility modified.
+ - R_EX_2obut_e_: Reversibility modified.
+ - R_EX_adn_e_: Reversibility modified.
+ - R_EX_asn_L_e_: Reversibility modified.
+ - R_EX_ca2_e_: Reversibility modified.
+ - R_EX_cgly_e_: Reversibility modified.
+ - R_EX_cl_e_: Reversibility modified.
+ - R_EX_co2_e_: Reversibility modified.
+ - R_EX_fe2_e_: Reversibility modified.
+ - R_EX_fe3_e_: Reversibility modified.
+ - R_EX_fum_e_: Reversibility modified.
+ - R_EX_glu_L_e_: Reversibility modified.
+ - R_EX_glyleu_e_: Reversibility modified.
+ - R_EX_glyphe_e_: Reversibility modified.
+ - R_EX_glypro_e_: Reversibility modified.
+ - R_EX_h_e_: Reversibility modified.
+ - R_EX_h2o_e_: Reversibility modified.
+ - R_EX_ile_L_e_: Reversibility modified.
+ - R_EX_k_e_: Reversibility modified.
+ - R_EX_lac_L_e_: Reversibility modified.
+ - R_EX_leu_L_e_: Reversibility modified.
+ - R_EX_met_L_e_: Reversibility modified.
+ - R_EX_na1_e_: Reversibility modified.
+ - R_EX_no2_e_: Reversibility modified.
+ - R_EX_o2_e_: Reversibility modified.
+ - R_EX_orn_e_: Reversibility modified.
+ - R_EX_pi_e_: Reversibility modified.
+ - R_EX_ppi_e_: Reversibility modified.
+ - R_EX_pro_L_e_: Reversibility modified.
+ - R_EX_ribflv_e_: Reversibility modified.
+ - R_EX_ser_L_e_: Reversibility modified.
+ - R_EX_so4_e_: Reversibility modified.
+ - R_EX_succ_e_: Reversibility modified.
+ - R_EX_val_L_e_: Reversibility modified.
+ - R_EX_pnto_R_e_: Reversibility modified.
+ - R_EX_ala_L_e_: Reversibility modified.
+ - R_EX_gln_L_e_: Reversibility modified.
+ - R_EX_phe_L_e_: Reversibility modified.
+ - R_EX_tyr_L_e_: Reversibility modified.
+ - R_EX_arg_L_e_: Reversibility modified.
+ - R_EX_for_e_: Reversibility modified.
+ - R_EX_nh4_e_: Reversibility modified.
+ - R_EX_ac_e_: Reversibility modified.
+ - R_EX_csn_e_: Reversibility modified.
+ - R_EX_fol_e_: Reversibility modified.
+ - R_EX_hxan_e_: Reversibility modified.
+ - R_EX_spmd_e_: Reversibility modified.
+ - R_EX_thm_e_: Reversibility modified.
+ - R_EX_trp_L_e_: Reversibility modified.
+ - R_EX_ura_e_: Reversibility modified.
+ - R_EX_xan_e_: Reversibility modified.
+ - R_EX_btn_e_: Reversibility modified.
+ - R_EX_pheme_e_: Reversibility modified.
+ - R_EX_mqn8_e_: Reversibility modified.
+ - R_EX_4abut_e_: Reversibility modified.
+ - R_EX_mg2_e_: Reversibility modified.
+ - R_EX_cu2_e_: Reversibility modified.
+ - R_EX_adocbl_e_: Reversibility modified.
+ - R_EX_alaasp_e_: Reversibility modified.
+ - R_EX_alagln_e_: Reversibility modified.
+ - R_EX_alaglu_e_: Reversibility modified.
+ - R_EX_alagly_e_: Reversibility modified.
+ - R_EX_alahis_e_: Reversibility modified.
+ - R_EX_alaleu_e_: Reversibility modified.
+ - R_EX_alathr_e_: Reversibility modified.
+ - R_EX_aso3_e_: Reversibility modified.
+ - R_EX_aso4_e_: Reversibility modified.
+ - R_EX_biomass_e_: Reversibility modified.
+ - R_EX_cbl1_e_: Reversibility modified.
+ - R_EX_cbl2_e_: Reversibility modified.
+ - R_EX_cd2_e_: Reversibility modified.
+ - R_EX_cobalt2_e_: Reversibility modified.
+ - R_EX_glyasn_e_: Reversibility modified.
+ - R_EX_glyasp_e_: Reversibility modified.
+ - R_EX_glycys_e_: Reversibility modified.
+ - R_EX_glygln_e_: Reversibility modified.
+ - R_EX_glyglu_e_: Reversibility modified.
+ - R_EX_glymet_e_: Reversibility modified.
+ - R_EX_glytyr_e_: Reversibility modified.
+ - R_EX_hg2_e_: Reversibility modified.
+ - R_EX_met_D_e_: Reversibility modified.
+ - R_EX_metala_e_: Reversibility modified.
+ - R_EX_metsox_S_L_e_: Reversibility modified.
+ - R_EX_mn2_e_: Reversibility modified.
+ - R_EX_pb_e_: Reversibility modified.
+ - R_EX_sheme_e_: Reversibility modified.
+ - R_EX_26dap_M_e_: Reversibility modified.
+ - R_EX_bzam_e_: Reversibility modified.
+ - R_EX_nmn_e_: Reversibility modified.
+ - R_EX_metsox_R_L_e_: Reversibility modified.
+ - R_EX_no3_e_: Reversibility modified.
+ - R_EX_h2_e_: Reversibility modified.
+ - R_EX_chols_e_: Reversibility modified.
+ - R_EX_mtym_e_: Reversibility modified.
+INFO 2026-11-01 14:15:11,911 [MainProcess]: Normalisation total time: 0.022s
+INFO 2026-11-01 14:15:11,911 [MainProcess]: Converting Network into ASP facts ...
+INFO 2026-11-01 14:15:11,913 [MainProcess]: Reaction R_DM_5DRIB artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,915 [MainProcess]: Reaction R_dreplication artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,915 [MainProcess]: Reaction R_dreplication artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,915 [MainProcess]: Reaction R_pbiosynthesis artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,915 [MainProcess]: Reaction R_pbiosynthesis artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,915 [MainProcess]: Reaction R_rtranscription artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,915 [MainProcess]: Reaction R_rtranscription artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,916 [MainProcess]: Reaction R_sink_PGPm1_c_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_DM_4HBA artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_DM_kdo2lipid4L_c_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_DM_teich_45_BS_c_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_EX_chol_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_EX_crn_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_EX_dopa_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_EX_ocdca_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_EX_zn2_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_EX_glyc3p_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_EX_alltn_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_EX_bz_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_EX_mqn7_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_EX_2obut_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_EX_adn_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_EX_asn_L_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_EX_ca2_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_EX_cgly_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_EX_cl_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_EX_co2_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_EX_fe2_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_EX_fe3_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_EX_fum_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_EX_glu_L_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_EX_glyleu_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_EX_glyphe_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_EX_glypro_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_EX_h_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_EX_h2o_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_EX_ile_L_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_EX_k_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_EX_lac_L_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_EX_leu_L_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_EX_met_L_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_EX_na1_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_EX_no2_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_EX_o2_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_EX_orn_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_EX_pi_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_EX_ppi_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_EX_pro_L_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_EX_ribflv_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_EX_ser_L_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_EX_so4_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_EX_succ_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_EX_val_L_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_EX_pnto_R_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_EX_ala_L_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_EX_gln_L_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_EX_phe_L_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,917 [MainProcess]: Reaction R_EX_tyr_L_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_arg_L_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_for_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_nh4_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_ac_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_csn_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_fol_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_hxan_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_spmd_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_thm_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_trp_L_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_ura_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_xan_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_btn_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_pheme_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_mqn8_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_4abut_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_mg2_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_cu2_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_adocbl_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_alaasp_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_alagln_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_alaglu_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_alagly_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_alahis_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_alaleu_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_alathr_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_aso3_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_aso4_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_biomass_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_cbl1_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_cbl2_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_cd2_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_cobalt2_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_glyasn_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_glyasp_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_glycys_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_glygln_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_glyglu_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_glymet_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_glytyr_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_hg2_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_met_D_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_metala_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_metsox_S_L_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_mn2_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_pb_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_sheme_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_26dap_M_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_bzam_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_nmn_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_metsox_R_L_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_no3_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_h2_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,918 [MainProcess]: Reaction R_EX_chols_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,919 [MainProcess]: Reaction R_EX_mtym_e_ artificially removed into lp facts with a prefix 'rm_'
+INFO 2026-11-01 14:15:11,919 [MainProcess]: ... DONE
+INFO 2026-11-01 14:15:11,920 [MainProcess]: Instance file written: /Users/maitevillagran/Desktop/proyecto_redes/tmp/instance_Eggerthella_lenta_A2_AGORA2_v2.01_rm_rxn_tgt_taf_reas_no_accu.lp
+INFO 2026-11-01 14:15:11,920 [MainProcess]: 
+############################################
+############################################
+                   [1mREASONING[0;96m
+############################################
+############################################
+
+INFO 2026-11-01 14:15:11,920 [MainProcess]: Mode : TARGET
+INFO 2026-11-01 14:15:11,920 [MainProcess]: Option: TARGETS ARE FORBIDDEN SEEDS
+INFO 2026-11-01 14:15:11,920 [MainProcess]: ACCUMULATION: Forbidden
+INFO 2026-11-01 14:15:11,920 [MainProcess]: Time limit: 45 minutes
+INFO 2026-11-01 14:15:11,920 [MainProcess]: Solution number limit: 1
+INFO 2026-11-01 14:15:11,920 [MainProcess]: 
+____________________________________________
+INFO 2026-11-01 14:15:11,920 [MainProcess]: ____________________________________________
+
+INFO 2026-11-01 14:15:11,920 [MainProcess]:             Sub Mode: [1mSUBSET MINIMAL[0m           
+INFO 2026-11-01 14:15:11,920 [MainProcess]: ____________________________________________
+INFO 2026-11-01 14:15:11,920 [MainProcess]: ____________________________________________
+
+INFO 2026-11-01 14:15:11,920 [MainProcess]: 
+················ [1mClassic mode[0m ···············
+INFO 2026-11-01 14:15:11,920 [MainProcess]: 
+~~~~~~~~~~~~~~~~ [1mEnumeration[0m ~~~~~~~~~~~~~~~
+INFO 2026-11-01 14:15:11,920 [MainProcess]: SOLVING...
+
+INFO 2026-11-01 14:15:16,722 [MainProcess]: 
+TIME  DATA EXTRACTION : 0.153s
+TIME TOTAL SEED SEARCH: 4.803s
+TIME       TOTAL      : 4.956s
