@@ -1,0 +1,673 @@
+{
+ "M_15dap_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01"
+ ],
+ "M_ac_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_ac_e": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_ac_p": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_acgam_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01"
+ ],
+ "M_acmana_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01"
+ ],
+ "M_actp_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01"
+ ],
+ "M_ade_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_adn_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_adn_e": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_adn_p": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_adocbl_e": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_adocbl_p": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_ala_D_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_ala_L_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_ala_L_e": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01"
+ ],
+ "M_alaglu_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_alagly_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_alaleu_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_ara5p_c": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_arab_L_e": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_arab_L_p": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_bz_e": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_bz_p": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_ca2_e": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_ca2_p": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_cbl1_e": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_cbl1_p": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_cbl2_e": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_cbl2_p": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_chtbNdac_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01"
+ ],
+ "M_cl_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_cl_e": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_cl_p": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_co2_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_co2_e": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_co2_p": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_cobalt2_e": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_cobalt2_p": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_cu2_e": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_cu2_p": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_db4p_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_dha_c": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_dhap_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_dnarep_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_erthrsD4p_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_fe2_e": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_fe2_p": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_fe3_e": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_fe3_p": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_fol_c": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_fol_e": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_fol_p": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_for_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_for_e": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_for_p": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_fru16dp_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_fru6p_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_fru_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_fru_e": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_fru_p": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_fruur_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_g1p_B_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_g1p_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_g6p_B_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_g6p_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_gal_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01"
+ ],
+ "M_gal_e": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_gal_p": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_gald3p_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_galt_e": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_galt_p": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_gam_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01"
+ ],
+ "M_gam_e": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01"
+ ],
+ "M_glc_D_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_glc_D_e": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_glc_D_p": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_glc_bD_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_glcur_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_glcur_e": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_glcur_p": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_glu_D_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_glu_L_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_glu_L_e": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_glu_L_p": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_gly_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_glyc_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01"
+ ],
+ "M_glyc_e": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01"
+ ],
+ "M_glyglu_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_glyleu_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_glypro_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_gmhep7p_c": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_h2o_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_h2o_e": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_h2o_p": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_h_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_h_e": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_h_p": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_hco3_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_hxan_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_hxan_e": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_hxan_p": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_ile_L_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01"
+ ],
+ "M_ile_L_e": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01"
+ ],
+ "M_inost_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01"
+ ],
+ "M_ins_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_ins_e": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_ins_p": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_k_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_k_e": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_k_p": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_lactl_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01"
+ ],
+ "M_lactl_e": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_lactl_p": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_lcts_e": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_lcts_p": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_leu_L_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_leu_L_e": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01"
+ ],
+ "M_lys_L_c": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_lys_L_e": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_lys_L_p": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_malt_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01"
+ ],
+ "M_malt_e": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_malt_p": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_man1p_c": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_man6p_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_mantr_e": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_mantr_p": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_met_L_e": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_met_L_p": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_mg2_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01"
+ ],
+ "M_mg2_e": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_mg2_p": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_mi1p_D_c": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_mn2_e": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_mn2_p": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_mthgxl_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01"
+ ],
+ "M_na1_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_na1_e": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_na1_p": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_nac_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_nac_e": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01"
+ ],
+ "M_nh4_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_nh4_e": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_nh4_p": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_nicrns_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_pi_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_pi_e": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_pi_p": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_pnto_R_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01"
+ ],
+ "M_ppi_e": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_ppi_p": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_pro_L_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_pro_L_e": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01"
+ ],
+ "M_proteinsynth_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_psuri5p_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_pydxn_c": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_pydxn_e": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_pydxn_p": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_r1p_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_r5p_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_ribflv_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01"
+ ],
+ "M_ribflv_e": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01"
+ ],
+ "M_rnatrans_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_ru5p_D_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_ru5p_L_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_s17bp_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_s7p_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_salcn_e": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_salcn_p": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_so4_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_so4_e": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_so4_p": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_sucr_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_sucr_e": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_sucr_p": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_tre_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01"
+ ],
+ "M_ura_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_ura_e": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01"
+ ],
+ "M_uri_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_uri_e": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_uri_p": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_val_L_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01"
+ ],
+ "M_val_L_e": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01"
+ ],
+ "M_xan_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_xan_e": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_xan_p": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_xtsn_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_xu5p_D_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_xu5p_L_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_xyl_D_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_xyl_D_e": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_xyl_D_p": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_xylu_D_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_zn2_e": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_zn2_p": [
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ]
+}

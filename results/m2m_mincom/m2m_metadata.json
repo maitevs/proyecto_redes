@@ -1,0 +1,22 @@
+{
+    "m2m_args": {
+        "cmd": "mincom",
+        "networksdir": "sbml/",
+        "seeds": "m2m/seeds.sbml",
+        "out": "results/m2m_mincom",
+        "modelhost": null,
+        "quiet": null,
+        "targets": "m2m_targets/seeds.sbml"
+    },
+    "tool_dependencies": {
+        "python_package": {
+            "Python_version": "3.11.15 (main, Jun 11 2026, 15:14:57) [Clang 20.1.8 ]",
+            "Metage2Metabo": "1.6.3",
+            "MiSCoTo": "3.2.0",
+            "MeneTools": "3.4.0"
+        },
+        "clingo": "/opt/miniconda3/envs/opti_redes/bin/clingo",
+        "clingo_version": "5.8.0\\n'"
+    },
+    "duration": 4.410451889038086
+}

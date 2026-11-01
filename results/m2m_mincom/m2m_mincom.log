@@ -1,0 +1,50 @@
+######### Creating metabolic instance for the whole community #########
+Created temporary instance file in /Users/maitevillagran/Desktop/proyecto_redes/results/m2m_mincom/community_analysis/miscoto_l0iw_wgd.lp
+
+###############################################
+#                                             #
+#         Minimal community selection         #
+#                                             #
+###############################################
+
+Running minimal community selection
+
+In the initial and minimal communities 1 targets are producible and 0 remain unproducible.
+
+1 producible targets:
+M_mtym_e
+
+0 still unproducible targets:
+
+
+Minimal communities are available in results/m2m_mincom/community_analysis/mincom.json 
+
+######### One minimal community #########
+# One minimal community enabling the producibility of the target metabolites given as inputs
+Minimal number of bacteria in communities => 1
+
+Eggerthella_lenta_DSM_2243_AGORA2_v2.01
+######### Key species: Union of minimal communities #########
+# Bacteria occurring in at least one minimal community enabling the producibility of the target metabolites given as inputs
+Number of key species => 3
+
+Eggerthella_lenta_A2_AGORA2_v2.01
+Eggerthella_lenta_DSM_2243_AGORA2_v2.01
+Eggerthella_lenta_DSM_11767_AGORA2_v2.01
+######### Essential symbionts: Intersection of minimal communities #########
+# Bacteria occurring in ALL minimal communities enabling the producibility of the target metabolites given as inputs
+Number of essential symbionts => 0
+
+
+######### Alternative symbionts: Difference between Union and Intersection #########
+# Bacteria occurring in at least one minimal community but not all minimal communities enabling the producibility of the target metabolites given as inputs
+Number of alternative symbionts => 3
+
+Eggerthella_lenta_DSM_2243_AGORA2_v2.01
+Eggerthella_lenta_DSM_11767_AGORA2_v2.01
+Eggerthella_lenta_A2_AGORA2_v2.01
+
+--- Mincom runtime 3.17 seconds ---
+
+--- Total runtime 4.41 seconds ---
+--- Logs written in results/m2m_mincom/m2m_mincom.log ---

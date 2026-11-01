@@ -1,0 +1,26 @@
+{
+    "alternative_symbionts": [],
+    "bacteria": [],
+    "essential_symbionts": [],
+    "exchanged": [],
+    "inter_bacteria": [],
+    "inter_exchanged": [],
+    "inter_targetsproducers": {},
+    "key_species": [],
+    "newly_prod": [],
+    "one_model": {
+        "unproducible_target": [
+            "M_mtym_e"
+        ]
+    },
+    "one_model_targetsproducers": {},
+    "producible": [],
+    "score_optimum_inter": "0",
+    "score_optimum_union": "0",
+    "still_unprod": [
+        "M_mtym_e"
+    ],
+    "union_bacteria": [],
+    "union_exchanged": [],
+    "union_targetsproducers": {}
+}

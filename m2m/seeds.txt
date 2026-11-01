@@ -95,3 +95,10 @@ M_val_L_e
 M_xan_e
 M_xyl_D_e
 M_zn2_e
+M_nadh_c
+M_nad_c
+M_h_c
+M_atp_c
+M_adp_c
+M_pi_c
+M_h2o_c

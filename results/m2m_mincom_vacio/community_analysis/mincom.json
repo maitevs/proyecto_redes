@@ -1,0 +1,63 @@
+{
+    "alternative_symbionts": [
+        "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+        "Eggerthella_lenta_A2_AGORA2_v2.01",
+        "Eggerthella_lenta_DSM_11767_AGORA2_v2.01"
+    ],
+    "bacteria": [
+        "Eggerthella_lenta_DSM_11767_AGORA2_v2.01"
+    ],
+    "essential_symbionts": [],
+    "exchanged": [],
+    "inter_bacteria": [],
+    "inter_exchanged": [],
+    "inter_targetsproducers": {},
+    "key_species": [
+        "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+        "Eggerthella_lenta_A2_AGORA2_v2.01",
+        "Eggerthella_lenta_DSM_11767_AGORA2_v2.01"
+    ],
+    "newly_prod": [
+        "M_mtym_e"
+    ],
+    "one_model": {
+        "chosen_bacteria": [
+            "Eggerthella_lenta_DSM_11767_AGORA2_v2.01"
+        ],
+        "newly_producible_target": [
+            "M_mtym_e"
+        ],
+        "producible_target": [
+            "M_mtym_e"
+        ],
+        "target_producer_coop_selectedcom": {
+            "M_mtym_e": [
+                "Eggerthella_lenta_DSM_11767_AGORA2_v2.01"
+            ]
+        }
+    },
+    "one_model_targetsproducers": {
+        "M_mtym_e": [
+            "Eggerthella_lenta_DSM_11767_AGORA2_v2.01"
+        ]
+    },
+    "producible": [
+        "M_mtym_e"
+    ],
+    "score_optimum_inter": "1",
+    "score_optimum_union": "1",
+    "still_unprod": [],
+    "union_bacteria": [
+        "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+        "Eggerthella_lenta_A2_AGORA2_v2.01",
+        "Eggerthella_lenta_DSM_11767_AGORA2_v2.01"
+    ],
+    "union_exchanged": [],
+    "union_targetsproducers": {
+        "M_mtym_e": [
+            "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+            "Eggerthella_lenta_A2_AGORA2_v2.01",
+            "Eggerthella_lenta_DSM_2243_AGORA2_v2.01"
+        ]
+    }
+}

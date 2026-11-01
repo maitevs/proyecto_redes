@@ -1,0 +1,46 @@
+######### Creating metabolic instance for the whole community #########
+Created temporary instance file in /Users/maitevillagran/Desktop/proyecto_redes/results/m2m_test/community_analysis/miscoto_m9li03h7.lp
+
+###############################################
+#                                             #
+#         Minimal community selection         #
+#                                             #
+###############################################
+
+Running minimal community selection
+
+In the initial and minimal communities 0 targets are producible and 1 remain unproducible.
+
+0 producible targets:
+
+
+1 still unproducible targets:
+M_mtym_e
+
+Minimal communities are available in results/m2m_test/community_analysis/mincom.json 
+
+######### One minimal community #########
+# One minimal community enabling the producibility of the target metabolites given as inputs
+Minimal number of bacteria in communities => 0
+
+
+######### Key species: Union of minimal communities #########
+# Bacteria occurring in at least one minimal community enabling the producibility of the target metabolites given as inputs
+Number of key species => 0
+
+
+######### Essential symbionts: Intersection of minimal communities #########
+# Bacteria occurring in ALL minimal communities enabling the producibility of the target metabolites given as inputs
+Number of essential symbionts => 0
+
+
+######### Alternative symbionts: Difference between Union and Intersection #########
+# Bacteria occurring in at least one minimal community but not all minimal communities enabling the producibility of the target metabolites given as inputs
+Number of alternative symbionts => 0
+
+
+
+--- Mincom runtime 0.34 seconds ---
+
+--- Total runtime 1.32 seconds ---
+--- Logs written in results/m2m_test/m2m_mincom.log ---

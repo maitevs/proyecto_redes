@@ -1,0 +1,6 @@
+M_co2_e
+M_h2o_e
+M_h_e
+M_nh4_e
+M_pi_e
+M_ppi_e

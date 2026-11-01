@@ -1,0 +1,19 @@
+{
+    "m2m_args": {
+        "cmd": "seeds",
+        "out": "m2m_targets/",
+        "quiet": null,
+        "metabolites": "m2m/targets.txt"
+    },
+    "tool_dependencies": {
+        "python_package": {
+            "Python_version": "3.11.15 (main, Jun 11 2026, 15:14:57) [Clang 20.1.8 ]",
+            "Metage2Metabo": "1.6.3",
+            "MiSCoTo": "3.2.0",
+            "MeneTools": "3.4.0"
+        },
+        "clingo": "/opt/homebrew/bin/clingo",
+        "clingo_version": "5.8.0\\n'"
+    },
+    "duration": 0.0057909488677978516
+}

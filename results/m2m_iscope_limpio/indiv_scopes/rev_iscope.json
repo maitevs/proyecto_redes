@@ -1,0 +1,2888 @@
+{
+ "M_15dap_c": [
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_15dap_e": [
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_15dap_p": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_1pyr5c_c": [
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01"
+ ],
+ "M_25dahxnt_c": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_2dh3dgal6p_c": [
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_2dhp_c": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_36dahx_c": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_3ig3p_c": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_3masp_c": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_3mop_c": [
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_3rbleu_c": [
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_4a5ic_c": [
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01"
+ ],
+ "M_4abut_c": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_4abut_e": [
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_4abut_p": [
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_4ahmmp_c": [
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_4mhetz_c": [
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_4mop_c": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_5aidzl_c": [
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01"
+ ],
+ "M_5odpro_c": [
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_5ud4imdzcxl_c": [
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01"
+ ],
+ "M_ab6p3hxl_c": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_ac_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_ac_e": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_ac_p": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_acgam_c": [
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01"
+ ],
+ "M_acgam_e": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_acgam_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_acmana_c": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01"
+ ],
+ "M_actn_R_c": [
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01"
+ ],
+ "M_actn_R_e": [
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01"
+ ],
+ "M_actn_S_c": [
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01"
+ ],
+ "M_actp_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01"
+ ],
+ "M_ade_c": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_adn_c": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_adn_e": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_adn_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_adocbl_c": [
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01"
+ ],
+ "M_adocbl_e": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_adocbl_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_agm_c": [
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01"
+ ],
+ "M_akg_c": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_akg_e": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_akg_p": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_ala_B_c": [
+  "Bacteroides_fragilis_638R_AGORA2_v2.01"
+ ],
+ "M_ala_D_c": [
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_ala_D_e": [
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_ala_D_p": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_ala_L_c": [
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_ala_L_e": [
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_ala_L_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_alaasp_c": [
+  "Bacteroides_fragilis_638R_AGORA2_v2.01"
+ ],
+ "M_alaasp_e": [
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_alaasp_p": [
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_alac_S_c": [
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_alagln_e": [
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_alagln_p": [
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_alaglu_c": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_alaglu_e": [
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_alaglu_p": [
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_alagly_c": [
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_alagly_e": [
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_alagly_p": [
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_alahis_e": [
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_alahis_p": [
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_alaleu_c": [
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_alaleu_e": [
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_alaleu_p": [
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_alathr_e": [
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_alathr_p": [
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_ara5p_c": [
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_arab_L_c": [
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01"
+ ],
+ "M_arab_L_e": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_arab_L_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_arg_L_c": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_arg_L_e": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_arg_L_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_asp_L_c": [
+  "Bacteroides_fragilis_638R_AGORA2_v2.01"
+ ],
+ "M_bdf2ph_c": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_btn_c": [
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_btn_e": [
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_btn_p": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_btnam_c": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_bz_e": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_bz_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_ca2_c": [
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_ca2_e": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_ca2_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_cbl1_e": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_cbl1_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_cbl2_e": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_cbl2_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_cbmt_c": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_cbp_c": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_cdchac_c": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_cdchac_e": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_cdchac_p": [
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_chac_c": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_chac_e": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_chac_p": [
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_chtbNdac_c": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01"
+ ],
+ "M_cinnm_c": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_citmal_c": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_citr_L_c": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_cl_c": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_cl_e": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_cl_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_co2_c": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_co2_e": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_co2_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_cobalt2_c": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_cobalt2_e": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_cobalt2_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_cu2_e": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_cu2_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_cynt_c": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_cys_L_c": [
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01"
+ ],
+ "M_cys_L_e": [
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01"
+ ],
+ "M_cys_L_p": [
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01"
+ ],
+ "M_cysgly_c": [
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01"
+ ],
+ "M_cysgly_e": [
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_cysgly_p": [
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_db4p_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_dchlmthn_c": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_dha_c": [
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_dhap_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_dnarep_c": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_dxyl5p_c": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_eoaa_c": [
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01"
+ ],
+ "M_erthrsD4p_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_fald_c": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_fald_e": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_fald_p": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_fe2_e": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_fe2_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_fe3_c": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_fe3_e": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_fe3_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_fol_c": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_fol_e": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_fol_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_for_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_for_e": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_for_p": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_fru16dp_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_fru6p_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_fru_c": [
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_fru_e": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_fru_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_fruur_c": [
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_fruur_e": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_fruur_p": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_fum_c": [
+  "Bacteroides_fragilis_638R_AGORA2_v2.01"
+ ],
+ "M_g15lac_c": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_g1p_B_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01"
+ ],
+ "M_g1p_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_g6p_B_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_g6p_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_gal_c": [
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_gal_e": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_gal_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_gald3p_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_galt_e": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_galt_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_gam_c": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01"
+ ],
+ "M_gam_e": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_gam_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_glc_D_c": [
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_glc_D_e": [
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_glc_D_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_glc_a16dp_c": [
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01"
+ ],
+ "M_glc_bD_c": [
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_glcur_c": [
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_glcur_e": [
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_glcur_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_glu5sa_c": [
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01"
+ ],
+ "M_glu_D_c": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_glu_L_c": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_glu_L_e": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_glu_L_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_gly_c": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_gly_e": [
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_gly_p": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_glyasn_e": [
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_glyasn_p": [
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_glyasp_c": [
+  "Bacteroides_fragilis_638R_AGORA2_v2.01"
+ ],
+ "M_glyasp_e": [
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_glyasp_p": [
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_glyc_c": [
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_glyc_e": [
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_glyc_p": [
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_glycys_e": [
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_glycys_p": [
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_glygln_e": [
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_glygln_p": [
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_glyglu_c": [
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_glyglu_e": [
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_glyglu_p": [
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_glyleu_c": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_glyleu_e": [
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_glyleu_p": [
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_glymet_c": [
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01"
+ ],
+ "M_glymet_e": [
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_glymet_p": [
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_glyphe_c": [
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_glyphe_e": [
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_glyphe_p": [
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_glypro_c": [
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_glypro_e": [
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_glypro_p": [
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_glytyr_e": [
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_glytyr_p": [
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_gmhep7p_c": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_gsn_c": [
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_gsn_e": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_gsn_p": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_gua_c": [
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_gudac_c": [
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_h2_c": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_h2_e": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_h2_p": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_h2o_c": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_h2o_e": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_h2o_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_h_c": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_h_e": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_h_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_hco3_c": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_hpyr_c": [
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01"
+ ],
+ "M_hspmd_c": [
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01"
+ ],
+ "M_hxan_c": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_hxan_e": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_hxan_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_ibut_c": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01"
+ ],
+ "M_ibut_e": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01"
+ ],
+ "M_ibut_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01"
+ ],
+ "M_ibutamn_c": [
+  "Enterococcus_faecium_504_AGORA2_v2.01"
+ ],
+ "M_ihca_c": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01"
+ ],
+ "M_ihca_e": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01"
+ ],
+ "M_ihca_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01"
+ ],
+ "M_ile_L_c": [
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_ile_L_e": [
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_ile_L_p": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_indole_c": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_indole_e": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_indole_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_indpyr_c": [
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01"
+ ],
+ "M_ins_c": [
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_ins_e": [
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_ins_p": [
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_iptca2ox3oh_c": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_iptca2ox_c": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_iptca_c": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01"
+ ],
+ "M_iptca_e": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01"
+ ],
+ "M_iptca_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01"
+ ],
+ "M_k_c": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_k_e": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_k_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_kesto_e": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01"
+ ],
+ "M_kesto_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01"
+ ],
+ "M_kestopt_e": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01"
+ ],
+ "M_kestopt_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01"
+ ],
+ "M_kestottr_e": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01"
+ ],
+ "M_kestottr_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01"
+ ],
+ "M_lactl_c": [
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_lactl_e": [
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_lactl_p": [
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_lcts_c": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_lcts_e": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_lcts_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_leu_L_c": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_leu_L_e": [
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_leu_L_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_levdopa_e": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_levdopa_p": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_ln2cearg_c": [
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01"
+ ],
+ "M_lys_D_c": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_lys_L_c": [
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_lys_L_e": [
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_lys_L_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_malicL_c": [
+  "Bacteroides_fragilis_638R_AGORA2_v2.01"
+ ],
+ "M_malt_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01"
+ ],
+ "M_malt_e": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_malt_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_man1p_c": [
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_man6p_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_man_e": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_man_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_mantr_e": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_mantr_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_mescon_c": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_met_D_e": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_met_D_p": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_met_L_c": [
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01"
+ ],
+ "M_met_L_e": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_met_L_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_metala_c": [
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01"
+ ],
+ "M_metala_e": [
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_metala_p": [
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_metsox_S_L_e": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_metsox_S_L_p": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_mg2_c": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_mg2_e": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_mg2_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_mn2_c": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_mn2_e": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_mn2_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_mql8_c": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_mqn7_c": [
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01"
+ ],
+ "M_mqn7_e": [
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_mqn7_p": [
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_mqn8_c": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_mqn8_e": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_mqn8_p": [
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_mthgxl_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_na1_c": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_na1_e": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_na1_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_nac_c": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_nac_e": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_nac_p": [
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_ncptrc_c": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01"
+ ],
+ "M_nh4_c": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_nh4_e": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_nh4_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_nicrns_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_no2_c": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_no2_e": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_no2_p": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_no3_c": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_no3_e": [
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_no3_p": [
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_oaa_c": [
+  "Bacteroides_fragilis_638R_AGORA2_v2.01"
+ ],
+ "M_ocblsrn_c": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_orn_L_c": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_orn_L_e": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_peamn_c": [
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_peamn_e": [
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01"
+ ],
+ "M_phe_L_c": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_phe_L_e": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_phe_L_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_pheme_e": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_pheme_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_phpyr_c": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_pi_c": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_pi_e": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_pi_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_pnto_R_c": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_pnto_R_e": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_pnto_R_p": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_ppi_e": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_ppi_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_pprdn_c": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_pro_L_c": [
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_pro_L_e": [
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_pro_L_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_proteinsynth_c": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_psics_D_c": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01"
+ ],
+ "M_psuri5p_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_ptrc_c": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_ptrc_e": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_ptrc_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_pydxn_c": [
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_pydxn_e": [
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_pydxn_p": [
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_pyr_c": [
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_pyr_e": [
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01"
+ ],
+ "M_pyr_p": [
+  "Bacteroides_fragilis_638R_AGORA2_v2.01"
+ ],
+ "M_r1p_c": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_r5p_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_rbl_D_c": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_rbl_L_c": [
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01"
+ ],
+ "M_rib_D_c": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_ribflv_c": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_ribflv_e": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_ribflv_p": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_rnatrans_c": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_ru5p_D_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_ru5p_L_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_s17bp_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_s7p_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_salcn_e": [
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_salcn_p": [
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_ser_L_c": [
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_ser_L_e": [
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_ser_L_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_sheme_e": [
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_sheme_p": [
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_so4_c": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_so4_e": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_so4_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_spmd_e": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_spmd_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_sucr_c": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01"
+ ],
+ "M_sucr_e": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_sucr_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_sucsal_c": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_tagdp_D_c": [
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_thm_c": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_thm_e": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_thm_p": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_tre6p_c": [
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01"
+ ],
+ "M_tre_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01"
+ ],
+ "M_tre_e": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_tre_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_trp_L_c": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_trp_L_e": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_trp_L_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_trypta_c": [
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_ura_c": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_ura_e": [
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_ura_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_urea_c": [
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01"
+ ],
+ "M_urea_e": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01"
+ ],
+ "M_urea_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01"
+ ],
+ "M_uri_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_uri_e": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_uri_p": [
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_val_L_c": [
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_val_L_e": [
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_val_L_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_xan_c": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_xan_e": [
+  "Eggerthella_lenta_DSM_2243_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_xan_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_xtsn_c": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_xu5p_D_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Enterococcus_faecalis_ATCC_29212_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_xu5p_L_c": [
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_xyl_D_c": [
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_xyl_D_e": [
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_xyl_D_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_xylu_D_c": [
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Roseburia_intestinalis_L1_82_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ],
+ "M_zn2_c": [
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_zn2_e": [
+  "Faecalibacterium_prausnitzii_A2_165_AGORA2_v2.01",
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bifidobacterium_longum_DJO10A_AGORA2_v2.01",
+  "Enterococcus_faecium_504_AGORA2_v2.01",
+  "Eggerthella_lenta_DSM_11767_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01",
+  "Eggerthella_lenta_A2_AGORA2_v2.01"
+ ],
+ "M_zn2_p": [
+  "Bacteroides_thetaiotaomicron_7330_AGORA2_v2.01",
+  "Bacteroides_fragilis_638R_AGORA2_v2.01",
+  "Akkermansia_muciniphila_ATCC_BAA_835_AGORA2_v2.01",
+  "Parabacteroides_distasonis_ATCC_8503_AGORA2_v2.01",
+  "Prevotella_copri_CB7_DSM_18205_AGORA2_v2.01",
+  "Escherichia_coli_042_AGORA2_v2.01"
+ ]
+}
