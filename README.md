@@ -30,6 +30,33 @@ Las dos primeras etapas operan sobre una abstracción booleana (network
 expansion): un metabolito es producible si es alcanzable desde los seeds. No hay
 estequiometría ni balance de masa. La última etapa sí es estequiométrica.
 
+### Validación del método con Seed2LP
+
+Antes de aplicar el pipeline a la comunidad, se verificó que Seed2LP
+recupera una dependencia metabólica conocida. Se buscó comprobar cuales nutrientes requiere *E. lenta* A2 para exportar m-tiramina,
+bajo tres configuraciones:
+
+| Dopamina | Modo | Objetivo | Resultado | Tiempo |
+|---|---|---|---|---|
+| prohibida | hybrid | m-tiramina + biomasa | sin solución | 2714 s |
+| permitida | reasoning | m-tiramina | 4 seeds (incl. `M_dpmn_e`) | 5.7 s |
+| prohibida | reasoning | m-tiramina | 5 seeds (incl. `M_levdopa_c`) | 4.8 s |
+
+Seed2LP identificó dopamina como seed mínimo sin información previa,
+recuperando la dependencia interespecie descrita experimentalmente
+(Maini Rekdal et al., 2019).
+
+Al prohibir dopamina, el algoritmo propuso levodopa citosólica como
+ruta alternativa. Dado que A2 contiene `levdopa_c` pero carece de
+`levdopa_e`, la dependencia de un socio metabólico es por **transporte**
+y no por ausencia de la enzima.
+
+El modo `hybrid` impone adicionalmente flujo en la reacción de biomasa
+(`R_bio1`), lo que explica la inviabilidad de la primera configuración
+y su costo computacional (~45 min frente a ~5 s en `reasoning`).
+
+hybrid sobre ~1143 reacciones tardó 2714 s. Vale la pena anotarlo como dato de escalabilidad — justifica usar reasoning para exploración y reservar hybrid para confirmar.
+
 ---
 
 ## Referencias
