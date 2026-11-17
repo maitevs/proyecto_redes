@@ -1,0 +1,3 @@
+escenario,estado,flujo_3HLYTCL,dopamina_exportada_EF,dopamina_captada_EL,flujo_DOPADH,m_tiramina_exportada
+Con levodopa,optimal,10.0,10.0,-10.0,10.0,10.0
+Sin levodopa,optimal,-6.283971609470842e-17,0.0,0.0,7.198070181013029e-16,7.19807018101303e-16

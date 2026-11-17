@@ -101,6 +101,46 @@ def analizar_reacciones(modelo, reacciones):
     fva.index.name = "reaccion"
     return fva.reset_index()
 
+def construir_comunidad(modelos):
+    """
+    Combina modelos manteniendo separados sus metabolitos
+    y reacciones mediante prefijos.
+
+    modelos: diccionario {prefijo: modelo}
+    """
+    comunidad = cobra.Model("comunidad_levodopa")
+    reacciones_nuevas = []
+
+    for prefijo, modelo in modelos.items():
+        metabolitos = {}
+
+        for met in modelo.metabolites:
+            nuevo_met = cobra.Metabolite(
+                id=f"{prefijo}__{met.id}",
+                name=met.name,
+                compartment=f"{prefijo}_{met.compartment}"
+            )
+            metabolitos[met.id] = nuevo_met
+
+        for rxn in modelo.reactions:
+            nueva_rxn = cobra.Reaction(
+                id=f"{prefijo}__{rxn.id}",
+                name=rxn.name,
+                lower_bound=rxn.lower_bound,
+                upper_bound=rxn.upper_bound
+            )
+
+            nueva_rxn.add_metabolites({
+                metabolitos[met.id]: coef
+                for met, coef in rxn.metabolites.items()
+            })
+
+            reacciones_nuevas.append(nueva_rxn)
+
+    comunidad.add_reactions(reacciones_nuevas)
+
+    return comunidad
+
 
 if __name__ == "__main__":
 
@@ -313,5 +353,117 @@ if __name__ == "__main__":
     ])
 
     resultados.to_csv(salida, index=False)
+
+    print("Archivo guardado:", salida)
+
+    print("\n=== VALIDACIÓN COMUNITARIA ===")
+
+    comunidad = construir_comunidad({
+        "EF": modelo_controlado,
+        "EL": lenta_controlada
+    })
+
+    # Identificar intercambios de dopamina
+    ex_dopa_ef = comunidad.reactions.get_by_id(
+        "EF__EX_dopa_e_"
+    )
+
+    ex_dopa_el = comunidad.reactions.get_by_id(
+        "EL__EX_dopa_e_"
+    )
+
+    # E. lenta puede recibir dopamina del pool compartido
+    ex_dopa_el.lower_bound = -10.0
+
+    # E. faecalis solo puede secretarla
+    ex_dopa_ef.lower_bound = 0.0
+
+    # Balance del pool compartido de dopamina
+    balance_dopa = comunidad.problem.Constraint(
+        ex_dopa_ef.flux_expression
+        + ex_dopa_el.flux_expression,
+        lb=0,
+        ub=0,
+        name="balance_dopamina_compartida"
+    )
+
+    comunidad.add_cons_vars([balance_dopa])
+
+    # Maximizar m-tiramina exportada por E. lenta
+    ex_mtym_el = comunidad.reactions.get_by_id(
+        "EL__EX_mtym_e_"
+    )
+
+    comunidad.objective = ex_mtym_el
+    comunidad.objective_direction = "max"
+
+    sol_com = comunidad.optimize()
+
+    print("Estado:", sol_com.status)
+
+    if sol_com.status == "optimal":
+
+        print(
+            "m-tiramina exportada:",
+            round(sol_com.objective_value, 6)
+        )
+
+        for rid in [
+            "EF__3HLYTCL",
+            "EF__EX_dopa_e_",
+            "EL__EX_dopa_e_",
+            "EL__DOPADH",
+            "EL__EX_mtym_e_"
+        ]:
+            print(
+                rid, ":",
+                round(sol_com.fluxes[rid], 6)
+            )
+
+        # Control negativo: sin entrada de levodopa
+        comunidad_sin_levodopa = comunidad.copy()
+
+        ex_lev = comunidad_sin_levodopa.reactions.get_by_id(
+            "EF__EX_34dhphe_e_"
+        )
+
+        ex_lev.lower_bound = 0.0
+
+        sol_neg = comunidad_sin_levodopa.optimize()
+
+        print("\n=== CONTROL SIN LEVODOPA ===")
+        print("Estado:", sol_neg.status)
+
+        if sol_neg.status == "optimal":
+            print(
+                "m-tiramina exportada:",
+                round(sol_neg.objective_value, 6)
+            )
+
+            print("\n=== GUARDANDO VALIDACIÓN COMUNITARIA ===")
+
+    resultados_comunidad = pd.DataFrame([
+        {
+            "escenario": "Con levodopa",
+            "estado": sol_com.status,
+            "flujo_3HLYTCL": sol_com.fluxes["EF__3HLYTCL"],
+            "dopamina_exportada_EF": sol_com.fluxes["EF__EX_dopa_e_"],
+            "dopamina_captada_EL": sol_com.fluxes["EL__EX_dopa_e_"],
+            "flujo_DOPADH": sol_com.fluxes["EL__DOPADH"],
+            "m_tiramina_exportada": sol_com.fluxes["EL__EX_mtym_e_"]
+        },
+        {
+            "escenario": "Sin levodopa",
+            "estado": sol_neg.status,
+            "flujo_3HLYTCL": sol_neg.fluxes["EF__3HLYTCL"],
+            "dopamina_exportada_EF": sol_neg.fluxes["EF__EX_dopa_e_"],
+            "dopamina_captada_EL": sol_neg.fluxes["EL__EX_dopa_e_"],
+            "flujo_DOPADH": sol_neg.fluxes["EL__DOPADH"],
+            "m_tiramina_exportada": sol_neg.fluxes["EL__EX_mtym_e_"]
+        }
+    ])
+
+    salida = DATA / "resultados_validacion_comunitaria.csv"
+    resultados_comunidad.to_csv(salida, index=False)
 
     print("Archivo guardado:", salida)
