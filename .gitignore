@@ -1,0 +1,10 @@
+.DS_Store
+**/.DS_Store
+.ipynb_checkpoints/
+
+# Resultados locales de diagnostico
+/diagnostico_levodopa/
+/diagnostico_levodopa_oficial/
+
+# Archivos temporales de optimizacion
+*.lp
