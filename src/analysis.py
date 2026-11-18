@@ -467,3 +467,213 @@ if __name__ == "__main__":
     resultados_comunidad.to_csv(salida, index=False)
 
     print("Archivo guardado:", salida)
+
+
+    ### Se construyó un modelo comunitario simplificado de E. faecalis y E. lenta, acoplado mediante un balance compartido de dopamina. La simulación permitió obtener una exportación máxima de m-tiramina de 10 unidades de flujo, mientras que la eliminación de levodopa redujo dicha exportación a cero. Esto valida la factibilidad estequiométrica de la cascada bajo las condiciones del modelo, aunque aún no demuestra crecimiento comunitario estable.
+    print("\n=== DIAGNÓSTICO DE CRECIMIENTO ===")
+
+    for nombre, modelo_original in [
+        ("E. faecalis", modelo),
+        ("E. lenta", lenta)
+    ]:
+
+        # Copia sin modificar el modelo original
+        m = modelo_original.copy()
+
+        # Abrir captación para todos los intercambios
+        # que usan la convención habitual: -1 metabolito
+        for rxn in m.exchanges:
+            if len(rxn.metabolites) == 1:
+                coef = next(iter(rxn.metabolites.values()))
+
+                if coef == -1:
+                    rxn.lower_bound = -1000.0
+
+        # Maximizar la reacción de biomasa
+        sol = m.optimize()
+
+        print(f"\n{nombre}")
+        print("Estado:", sol.status)
+        print("Crecimiento con medio abierto:",
+              sol.objective_value)
+
+        print("\n=== DIAGNÓSTICO DE BIOMASA: E. LENTA ===")
+
+    # Trabajamos con una copia del modelo original
+    m_diag = lenta.copy()
+
+    print("Objetivo:", m_diag.objective.expression)
+
+    # Buscar reacciones de biomasa
+    biomasa = [
+        r for r in m_diag.reactions
+        if "bio" in r.id.lower()
+        or "biomass" in r.id.lower()
+    ]
+
+    print("\nReacciones candidatas de biomasa:")
+    for r in biomasa:
+        print(r.id, "|", r.name)
+
+    # Revisar los metabolitos consumidos por cada reacción
+    for rxn_bio in biomasa:
+
+        print(f"\n--- {rxn_bio.id} ---")
+
+        bloqueados = []
+
+        for met, coef in rxn_bio.metabolites.items():
+
+            if coef >= 0:
+                continue
+
+            # Otras reacciones conectadas al metabolito
+            otras = [
+                r for r in met.reactions
+                if r.id != rxn_bio.id
+            ]
+
+            # Metabolitos consumidos en biomasa sin
+            # ninguna otra reacción que los produzca
+            if len(otras) == 0:
+                bloqueados.append({
+                    "metabolito": met.id,
+                    "coeficiente": coef,
+                    "otras_reacciones": 0
+                })
+
+        df_bloqueados = pd.DataFrame(bloqueados)
+
+        print("Metabolitos sin otras reacciones:",
+              len(bloqueados))
+
+        if not df_bloqueados.empty:
+            print(df_bloqueados.to_string(index=False))
+
+            print("\n=== COMPARACIÓN DE LÍPIDOS ===")
+
+    lipidos_objetivo = [
+        "pe180_c",
+        "peai17_c",
+        "pei17_c",
+        "pg180_c",
+        "pgai17_c",
+        "pgi17_c",
+        "pgi16_c"
+    ]
+
+    for nombre, m in [
+        ("E. faecalis", modelo),
+        ("E. lenta", lenta)
+    ]:
+
+        print(f"\n--- {nombre} ---")
+
+        for met_id in lipidos_objetivo:
+
+            if met_id not in m.metabolites:
+                print(met_id, ": NO EXISTE")
+                continue
+
+            met = m.metabolites.get_by_id(met_id)
+
+            otras = [
+                r.id for r in met.reactions
+                if "bio" not in r.id.lower()
+            ]
+
+            print(
+                met_id,
+                "| nombre:", met.name,
+                "| fórmula:", met.formula,
+                "| reacciones:", otras[:10]
+            )
+
+            print("\n=== PRUEBA DIAGNÓSTICA: BIOMASA SIN 4 LÍPIDOS ===")
+
+    lipidos_bloqueados = [
+        "pe180_c",
+        "peai17_c",
+        "pei17_c",
+        "pg180_c"
+    ]
+
+    for nombre, modelo_original, rxn_biomasa in [
+        ("E. faecalis", modelo, "bio1"),
+        ("E. lenta", lenta, "biomass467")
+    ]:
+
+        m = modelo_original.copy()
+
+        # Medio completamente abierto: solo diagnóstico
+        for rxn in m.exchanges:
+            if len(rxn.metabolites) == 1:
+                coef = next(iter(rxn.metabolites.values()))
+
+                if coef == -1:
+                    rxn.lower_bound = -1000.0
+
+        # Modificar únicamente la copia
+        bio = m.reactions.get_by_id(rxn_biomasa)
+
+        for met_id in lipidos_bloqueados:
+            if met_id in m.metabolites:
+                met = m.metabolites.get_by_id(met_id)
+
+                if met in bio.metabolites:
+                    coef = bio.metabolites[met]
+                    bio.add_metabolites({met: -coef})
+
+        # Asegurar que optimizamos crecimiento
+        m.objective = bio
+        m.objective_direction = "max"
+
+        sol = m.optimize()
+
+        print(f"\n--- {nombre} ---")
+        print("Estado:", sol.status)
+
+        if sol.status == "optimal":
+            print("Crecimiento diagnóstico:", sol.objective_value)
+
+
+        print("\n=== BIOMASA MODIFICADA CON MEDIO CONTROLADO ===")
+
+    lipidos_bloqueados = [
+        "pe180_c",
+        "peai17_c",
+        "pei17_c",
+        "pg180_c"
+    ]
+
+    for nombre, modelo_original, rxn_biomasa in [
+        ("E. faecalis", modelo, "bio1"),
+        ("E. lenta", lenta, "biomass467")
+    ]:
+
+        # Aplicar nuestro medio, sin modificar el original
+        m = aplicar_medio(modelo_original, medio)
+
+        bio = m.reactions.get_by_id(rxn_biomasa)
+
+        # Retirar temporalmente los cuatro lípidos
+        for met_id in lipidos_bloqueados:
+            met = m.metabolites.get_by_id(met_id)
+
+            if met in bio.metabolites:
+                coef = bio.metabolites[met]
+                bio.add_metabolites({met: -coef})
+
+        m.objective = bio
+        m.objective_direction = "max"
+
+        sol = m.optimize()
+
+        print(f"\n--- {nombre} ---")
+        print("Estado:", sol.status)
+
+        if sol.status == "optimal":
+            print(
+                "Crecimiento con medio controlado:",
+                round(sol.objective_value, 6)
+            )
