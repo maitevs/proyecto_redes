@@ -8,3 +8,4 @@
 
 # Archivos temporales de optimizacion
 *.lp
+.DS_Store
