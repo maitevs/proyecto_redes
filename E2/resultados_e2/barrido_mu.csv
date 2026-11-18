@@ -1,0 +1,13 @@
+mu,modo,n_comunidades,tamano_minimo,comunidades
+0.01,con ancla,3,2,Ele_11767 + Efa; Ele_2243 + Efa; Ele_A2 + Efa
+0.01,sin ancla,6,2,Ele_11767 + Efm; Ele_2243 + Efm; Ele_11767 + Efa; Ele_2243 + Efa; Ele_A2 + Efa; Ele_A2 + Efm
+0.05,con ancla,3,2,Ele_A2 + Efa; Ele_11767 + Efa; Ele_2243 + Efa
+0.05,sin ancla,6,2,Ele_A2 + Efa; Ele_A2 + Efm; Ele_2243 + Efm; Ele_11767 + Efa; Ele_11767 + Efm; Ele_2243 + Efa
+0.1,con ancla,3,2,Ele_11767 + Efa; Ele_2243 + Efa; Ele_A2 + Efa
+0.1,sin ancla,6,2,Ele_A2 + Efm; Ele_2243 + Efm; Ele_11767 + Efm; Ele_A2 + Efa; Ele_2243 + Efa; Ele_11767 + Efa
+0.2,con ancla,3,2,Ele_2243 + Efa; Ele_A2 + Efa; Ele_11767 + Efa
+0.2,sin ancla,6,2,Ele_11767 + Efm; Ele_11767 + Efa; Ele_2243 + Efm; Ele_A2 + Efa; Ele_A2 + Efm; Ele_2243 + Efa
+0.5,con ancla,3,2,Ele_A2 + Efa; Ele_2243 + Efa; Ele_11767 + Efa
+0.5,sin ancla,6,2,Ele_2243 + Efm; Ele_11767 + Efa; Ele_A2 + Efm; Ele_A2 + Efa; Ele_2243 + Efa; Ele_11767 + Efm
+1.0,con ancla,3,2,Ele_11767 + Efa; Ele_A2 + Efa; Ele_2243 + Efa
+1.0,sin ancla,6,2,Ele_11767 + Efa; Ele_2243 + Efa; Ele_2243 + Efm; Ele_11767 + Efm; Ele_A2 + Efa; Ele_A2 + Efm

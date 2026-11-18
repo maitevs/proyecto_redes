@@ -1,0 +1,97 @@
+comunidad,f,organismo,elemento,descripcion,min,max,rol
+Efa + Ele_A2,0.5,Efa,3HLYTCL,paso 1: levodopa -> dopamina,0.1,1.0,obligatorio
+Efa + Ele_A2,0.5,Efa,DOPADH,paso 2: dopamina -> m-tiramina,,,no tiene la reacción
+Efa + Ele_A2,0.5,Efa,intercambio levdopa_e,,-1.0,-0.1,siempre consume
+Efa + Ele_A2,0.5,Efa,intercambio dpmn_e,,0.1,1.0,siempre secreta
+Efa + Ele_A2,0.5,Ele_A2,3HLYTCL,paso 1: levodopa -> dopamina,0.0,0.0,no ocurre
+Efa + Ele_A2,0.5,Ele_A2,DOPADH,paso 2: dopamina -> m-tiramina,0.1,1.0,obligatorio
+Efa + Ele_A2,0.5,Ele_A2,intercambio dpmn_e,,-1.0,-0.1,siempre consume
+Efa + Ele_A2,0.5,Ele_A2,intercambio mtym_e,,0.1,1.0,siempre secreta
+Efa + Ele_A2,0.9,Efa,3HLYTCL,paso 1: levodopa -> dopamina,0.1,1.0,obligatorio
+Efa + Ele_A2,0.9,Efa,DOPADH,paso 2: dopamina -> m-tiramina,,,no tiene la reacción
+Efa + Ele_A2,0.9,Efa,intercambio levdopa_e,,-1.0,-0.1,siempre consume
+Efa + Ele_A2,0.9,Efa,intercambio dpmn_e,,0.1,1.0,siempre secreta
+Efa + Ele_A2,0.9,Ele_A2,3HLYTCL,paso 1: levodopa -> dopamina,0.0,0.0,no ocurre
+Efa + Ele_A2,0.9,Ele_A2,DOPADH,paso 2: dopamina -> m-tiramina,0.1,1.0,obligatorio
+Efa + Ele_A2,0.9,Ele_A2,intercambio dpmn_e,,-1.0,-0.1,siempre consume
+Efa + Ele_A2,0.9,Ele_A2,intercambio mtym_e,,0.1,1.0,siempre secreta
+Efa + Ele_11767,0.5,Efa,3HLYTCL,paso 1: levodopa -> dopamina,0.1,1.0,obligatorio
+Efa + Ele_11767,0.5,Efa,DOPADH,paso 2: dopamina -> m-tiramina,,,no tiene la reacción
+Efa + Ele_11767,0.5,Efa,intercambio levdopa_e,,-1.0,-0.1,siempre consume
+Efa + Ele_11767,0.5,Efa,intercambio dpmn_e,,0.1,1.0,siempre secreta
+Efa + Ele_11767,0.5,Ele_11767,3HLYTCL,paso 1: levodopa -> dopamina,0.0,0.0,no ocurre
+Efa + Ele_11767,0.5,Ele_11767,DOPADH,paso 2: dopamina -> m-tiramina,0.1,1.0,obligatorio
+Efa + Ele_11767,0.5,Ele_11767,intercambio dpmn_e,,-1.0,-0.1,siempre consume
+Efa + Ele_11767,0.5,Ele_11767,intercambio mtym_e,,0.1,1.0,siempre secreta
+Efa + Ele_11767,0.9,Efa,3HLYTCL,paso 1: levodopa -> dopamina,0.1,1.0,obligatorio
+Efa + Ele_11767,0.9,Efa,DOPADH,paso 2: dopamina -> m-tiramina,,,no tiene la reacción
+Efa + Ele_11767,0.9,Efa,intercambio levdopa_e,,-1.0,-0.1,siempre consume
+Efa + Ele_11767,0.9,Efa,intercambio dpmn_e,,0.1,1.0,siempre secreta
+Efa + Ele_11767,0.9,Ele_11767,3HLYTCL,paso 1: levodopa -> dopamina,0.0,0.0,no ocurre
+Efa + Ele_11767,0.9,Ele_11767,DOPADH,paso 2: dopamina -> m-tiramina,0.1,1.0,obligatorio
+Efa + Ele_11767,0.9,Ele_11767,intercambio dpmn_e,,-1.0,-0.1,siempre consume
+Efa + Ele_11767,0.9,Ele_11767,intercambio mtym_e,,0.1,1.0,siempre secreta
+Efa + Ele_2243,0.5,Efa,3HLYTCL,paso 1: levodopa -> dopamina,0.1,1.0,obligatorio
+Efa + Ele_2243,0.5,Efa,DOPADH,paso 2: dopamina -> m-tiramina,,,no tiene la reacción
+Efa + Ele_2243,0.5,Efa,intercambio levdopa_e,,-1.0,-0.1,siempre consume
+Efa + Ele_2243,0.5,Efa,intercambio dpmn_e,,0.1,1.0,siempre secreta
+Efa + Ele_2243,0.5,Ele_2243,3HLYTCL,paso 1: levodopa -> dopamina,,,no tiene la reacción
+Efa + Ele_2243,0.5,Ele_2243,DOPADH,paso 2: dopamina -> m-tiramina,0.1,1.0,obligatorio
+Efa + Ele_2243,0.5,Ele_2243,intercambio dpmn_e,,-1.0,-0.1,siempre consume
+Efa + Ele_2243,0.5,Ele_2243,intercambio mtym_e,,0.1,1.0,siempre secreta
+Efa + Ele_2243,0.9,Efa,3HLYTCL,paso 1: levodopa -> dopamina,0.1,1.0,obligatorio
+Efa + Ele_2243,0.9,Efa,DOPADH,paso 2: dopamina -> m-tiramina,,,no tiene la reacción
+Efa + Ele_2243,0.9,Efa,intercambio levdopa_e,,-1.0,-0.1,siempre consume
+Efa + Ele_2243,0.9,Efa,intercambio dpmn_e,,0.1,1.0,siempre secreta
+Efa + Ele_2243,0.9,Ele_2243,3HLYTCL,paso 1: levodopa -> dopamina,,,no tiene la reacción
+Efa + Ele_2243,0.9,Ele_2243,DOPADH,paso 2: dopamina -> m-tiramina,0.1,1.0,obligatorio
+Efa + Ele_2243,0.9,Ele_2243,intercambio dpmn_e,,-1.0,-0.1,siempre consume
+Efa + Ele_2243,0.9,Ele_2243,intercambio mtym_e,,0.1,1.0,siempre secreta
+Efm + Ele_A2,0.5,Efm,3HLYTCL,paso 1: levodopa -> dopamina,0.1,1.0,obligatorio
+Efm + Ele_A2,0.5,Efm,DOPADH,paso 2: dopamina -> m-tiramina,,,no tiene la reacción
+Efm + Ele_A2,0.5,Efm,intercambio levdopa_e,,-1.0,-0.1,siempre consume
+Efm + Ele_A2,0.5,Efm,intercambio dpmn_e,,0.1,1.0,siempre secreta
+Efm + Ele_A2,0.5,Ele_A2,3HLYTCL,paso 1: levodopa -> dopamina,0.0,0.0,no ocurre
+Efm + Ele_A2,0.5,Ele_A2,DOPADH,paso 2: dopamina -> m-tiramina,0.1,1.0,obligatorio
+Efm + Ele_A2,0.5,Ele_A2,intercambio dpmn_e,,-1.0,-0.1,siempre consume
+Efm + Ele_A2,0.5,Ele_A2,intercambio mtym_e,,0.1,1.0,siempre secreta
+Efm + Ele_A2,0.9,Efm,3HLYTCL,paso 1: levodopa -> dopamina,0.1,1.0,obligatorio
+Efm + Ele_A2,0.9,Efm,DOPADH,paso 2: dopamina -> m-tiramina,,,no tiene la reacción
+Efm + Ele_A2,0.9,Efm,intercambio levdopa_e,,-1.0,-0.1,siempre consume
+Efm + Ele_A2,0.9,Efm,intercambio dpmn_e,,0.1,1.0,siempre secreta
+Efm + Ele_A2,0.9,Ele_A2,3HLYTCL,paso 1: levodopa -> dopamina,0.0,0.0,no ocurre
+Efm + Ele_A2,0.9,Ele_A2,DOPADH,paso 2: dopamina -> m-tiramina,0.1,1.0,obligatorio
+Efm + Ele_A2,0.9,Ele_A2,intercambio dpmn_e,,-1.0,-0.1,siempre consume
+Efm + Ele_A2,0.9,Ele_A2,intercambio mtym_e,,0.1,1.0,siempre secreta
+Efm + Ele_11767,0.5,Efm,3HLYTCL,paso 1: levodopa -> dopamina,0.1,1.0,obligatorio
+Efm + Ele_11767,0.5,Efm,DOPADH,paso 2: dopamina -> m-tiramina,,,no tiene la reacción
+Efm + Ele_11767,0.5,Efm,intercambio levdopa_e,,-1.0,-0.1,siempre consume
+Efm + Ele_11767,0.5,Efm,intercambio dpmn_e,,0.1,1.0,siempre secreta
+Efm + Ele_11767,0.5,Ele_11767,3HLYTCL,paso 1: levodopa -> dopamina,0.0,0.0,no ocurre
+Efm + Ele_11767,0.5,Ele_11767,DOPADH,paso 2: dopamina -> m-tiramina,0.1,1.0,obligatorio
+Efm + Ele_11767,0.5,Ele_11767,intercambio dpmn_e,,-1.0,-0.1,siempre consume
+Efm + Ele_11767,0.5,Ele_11767,intercambio mtym_e,,0.1,1.0,siempre secreta
+Efm + Ele_11767,0.9,Efm,3HLYTCL,paso 1: levodopa -> dopamina,0.1,1.0,obligatorio
+Efm + Ele_11767,0.9,Efm,DOPADH,paso 2: dopamina -> m-tiramina,,,no tiene la reacción
+Efm + Ele_11767,0.9,Efm,intercambio levdopa_e,,-1.0,-0.1,siempre consume
+Efm + Ele_11767,0.9,Efm,intercambio dpmn_e,,0.1,1.0,siempre secreta
+Efm + Ele_11767,0.9,Ele_11767,3HLYTCL,paso 1: levodopa -> dopamina,0.0,0.0,no ocurre
+Efm + Ele_11767,0.9,Ele_11767,DOPADH,paso 2: dopamina -> m-tiramina,0.1,1.0,obligatorio
+Efm + Ele_11767,0.9,Ele_11767,intercambio dpmn_e,,-1.0,-0.1,siempre consume
+Efm + Ele_11767,0.9,Ele_11767,intercambio mtym_e,,0.1,1.0,siempre secreta
+Efm + Ele_2243,0.5,Efm,3HLYTCL,paso 1: levodopa -> dopamina,0.1,1.0,obligatorio
+Efm + Ele_2243,0.5,Efm,DOPADH,paso 2: dopamina -> m-tiramina,,,no tiene la reacción
+Efm + Ele_2243,0.5,Efm,intercambio levdopa_e,,-1.0,-0.1,siempre consume
+Efm + Ele_2243,0.5,Efm,intercambio dpmn_e,,0.1,1.0,siempre secreta
+Efm + Ele_2243,0.5,Ele_2243,3HLYTCL,paso 1: levodopa -> dopamina,,,no tiene la reacción
+Efm + Ele_2243,0.5,Ele_2243,DOPADH,paso 2: dopamina -> m-tiramina,0.1,1.0,obligatorio
+Efm + Ele_2243,0.5,Ele_2243,intercambio dpmn_e,,-1.0,-0.1,siempre consume
+Efm + Ele_2243,0.5,Ele_2243,intercambio mtym_e,,0.1,1.0,siempre secreta
+Efm + Ele_2243,0.9,Efm,3HLYTCL,paso 1: levodopa -> dopamina,0.1,1.0,obligatorio
+Efm + Ele_2243,0.9,Efm,DOPADH,paso 2: dopamina -> m-tiramina,,,no tiene la reacción
+Efm + Ele_2243,0.9,Efm,intercambio levdopa_e,,-1.0,-0.1,siempre consume
+Efm + Ele_2243,0.9,Efm,intercambio dpmn_e,,0.1,1.0,siempre secreta
+Efm + Ele_2243,0.9,Ele_2243,3HLYTCL,paso 1: levodopa -> dopamina,,,no tiene la reacción
+Efm + Ele_2243,0.9,Ele_2243,DOPADH,paso 2: dopamina -> m-tiramina,0.1,1.0,obligatorio
+Efm + Ele_2243,0.9,Ele_2243,intercambio dpmn_e,,-1.0,-0.1,siempre consume
+Efm + Ele_2243,0.9,Ele_2243,intercambio mtym_e,,0.1,1.0,siempre secreta

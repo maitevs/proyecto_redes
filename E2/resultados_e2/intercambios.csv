@@ -1,0 +1,235 @@
+comunidad,f,metabolito,organismo,min,max,rol
+Efa + Ele_A2,0.5,2obut_e,Efa,0.000578,27.638493,siempre secreta
+Efa + Ele_A2,0.5,2obut_e,Ele_A2,-21.736839,0.0,puede consumir
+Efa + Ele_A2,0.5,adn_e,Efa,-6.809232,5.509136,puede secretar o consumir
+Efa + Ele_A2,0.5,adn_e,Ele_A2,1e-06,5.809232,puede secretar
+Efa + Ele_A2,0.5,asn_L_e,Efa,-0.999836,0.958649,puede secretar o consumir
+Efa + Ele_A2,0.5,asn_L_e,Ele_A2,-0.123131,0.999836,puede secretar o consumir
+Efa + Ele_A2,0.5,dpmn_e,Efa,0.1,1.0,siempre secreta
+Efa + Ele_A2,0.5,dpmn_e,Ele_A2,-1.0,-0.1,siempre consume
+Efa + Ele_A2,0.5,glu_L_e,Efa,-1.0,21.913481,puede secretar o consumir
+Efa + Ele_A2,0.5,glu_L_e,Ele_A2,-22.913481,0.0,puede consumir
+Efa + Ele_A2,0.5,hxan_e,Efa,-1.0,12.63128,puede secretar o consumir
+Efa + Ele_A2,0.5,hxan_e,Ele_A2,-5.820144,0.0,puede consumir
+Efa + Ele_A2,0.5,lac_L_e,Efa,-16.577461,90.157692,puede secretar o consumir
+Efa + Ele_A2,0.5,lac_L_e,Ele_A2,-89.754136,16.577461,puede secretar o consumir
+Efa + Ele_A2,0.5,leu_L_e,Efa,-0.307418,1.915544,puede secretar o consumir
+Efa + Ele_A2,0.5,leu_L_e,Ele_A2,-0.260944,27.884279,puede secretar o consumir
+Efa + Ele_A2,0.5,pro_L_e,Efa,-20.682228,0.0,puede consumir
+Efa + Ele_A2,0.5,pro_L_e,Ele_A2,-0.487781,22.246844,puede secretar o consumir
+Efa + Ele_A2,0.5,succ_e,Efa,0.0,37.146931,puede secretar
+Efa + Ele_A2,0.5,succ_e,Ele_A2,-1.005331,39.10734,puede secretar o consumir
+Efa + Ele_A2,0.9,2obut_e,Efa,0.002672,14.665184,siempre secreta
+Efa + Ele_A2,0.9,2obut_e,Ele_A2,-13.05432,0.0,puede consumir
+Efa + Ele_A2,0.9,adn_e,Efa,-2.663751,2.952477,puede secretar o consumir
+Efa + Ele_A2,0.9,adn_e,Ele_A2,0.002739,1.663751,siempre secreta
+Efa + Ele_A2,0.9,ala_L_e,Efa,-6.870979,26.834758,puede secretar o consumir
+Efa + Ele_A2,0.9,ala_L_e,Ele_A2,-0.271038,5.870979,puede secretar o consumir
+Efa + Ele_A2,0.9,asn_L_e,Efa,-0.911182,0.822867,puede secretar o consumir
+Efa + Ele_A2,0.9,asn_L_e,Ele_A2,-0.118934,0.911182,puede secretar o consumir
+Efa + Ele_A2,0.9,dpmn_e,Efa,0.1,1.0,siempre secreta
+Efa + Ele_A2,0.9,dpmn_e,Ele_A2,-1.0,-0.1,siempre consume
+Efa + Ele_A2,0.9,glu_L_e,Efa,-1.0,12.579656,puede secretar o consumir
+Efa + Ele_A2,0.9,glu_L_e,Ele_A2,-13.579656,0.0,puede consumir
+Efa + Ele_A2,0.9,hxan_e,Efa,-1.0,5.833275,puede secretar o consumir
+Efa + Ele_A2,0.9,hxan_e,Ele_A2,-1.78183,0.0,puede consumir
+Efa + Ele_A2,0.9,lac_L_e,Efa,12.361039,76.804294,siempre secreta
+Efa + Ele_A2,0.9,lac_L_e,Ele_A2,-76.804294,-12.361039,siempre consume
+Efa + Ele_A2,0.9,leu_L_e,Efa,-0.387389,1.661741,puede secretar o consumir
+Efa + Ele_A2,0.9,leu_L_e,Ele_A2,-0.251764,18.424558,puede secretar o consumir
+Efa + Ele_A2,0.9,pro_L_e,Efa,-12.513046,0.0,puede consumir
+Efa + Ele_A2,0.9,pro_L_e,Ele_A2,-0.468791,12.067922,puede secretar o consumir
+Efa + Ele_A2,0.9,tyr_L_e,Efa,-0.946629,5.109035,puede secretar o consumir
+Efa + Ele_A2,0.9,tyr_L_e,Ele_A2,-0.071468,0.946629,puede secretar o consumir
+Efa + Ele_11767,0.5,ac_e,Efa,-56.321413,52.806295,puede secretar o consumir
+Efa + Ele_11767,0.5,ac_e,Ele_11767,-8.552092,107.948472,puede secretar o consumir
+Efa + Ele_11767,0.5,asn_L_e,Efa,-0.999835,0.959415,puede secretar o consumir
+Efa + Ele_11767,0.5,asn_L_e,Ele_11767,-0.124617,0.999835,puede secretar o consumir
+Efa + Ele_11767,0.5,dpmn_e,Efa,0.1,1.0,siempre secreta
+Efa + Ele_11767,0.5,dpmn_e,Ele_11767,-1.0,-0.1,siempre consume
+Efa + Ele_11767,0.5,glu_L_e,Efa,-1.0,21.879306,puede secretar o consumir
+Efa + Ele_11767,0.5,glu_L_e,Ele_11767,-22.879306,0.0,puede consumir
+Efa + Ele_11767,0.5,lac_L_e,Efa,-16.603401,90.142154,puede secretar o consumir
+Efa + Ele_11767,0.5,lac_L_e,Ele_11767,-89.738286,16.603401,puede secretar o consumir
+Efa + Ele_11767,0.5,leu_L_e,Efa,-0.308764,1.916889,puede secretar o consumir
+Efa + Ele_11767,0.5,leu_L_e,Ele_11767,-0.264092,27.888526,puede secretar o consumir
+Efa + Ele_11767,0.5,orn_L_e,Efa,-0.954911,8.103799,puede secretar o consumir
+Efa + Ele_11767,0.5,orn_L_e,Ele_11767,-8.103799,0.954911,puede secretar o consumir
+Efa + Ele_11767,0.5,pro_L_e,Efa,-20.649536,0.0,puede consumir
+Efa + Ele_11767,0.5,pro_L_e,Ele_11767,-0.496176,22.240657,puede secretar o consumir
+Efa + Ele_11767,0.5,succ_e,Efa,0.0,37.063806,puede secretar
+Efa + Ele_11767,0.5,succ_e,Ele_11767,-1.005384,39.11558,puede secretar o consumir
+Efa + Ele_11767,0.9,2obut_e,Efa,0.002669,14.570518,siempre secreta
+Efa + Ele_11767,0.9,2obut_e,Ele_11767,-12.975432,0.0,puede consumir
+Efa + Ele_11767,0.9,ac_e,Efa,-23.79162,33.403524,puede secretar o consumir
+Efa + Ele_11767,0.9,ac_e,Ele_11767,20.557016,85.214127,siempre secreta
+Efa + Ele_11767,0.9,ala_L_e,Efa,-6.869097,26.804524,puede secretar o consumir
+Efa + Ele_11767,0.9,ala_L_e,Ele_11767,-0.27551,5.869097,puede secretar o consumir
+Efa + Ele_11767,0.9,asn_L_e,Efa,-0.909885,0.822987,puede secretar o consumir
+Efa + Ele_11767,0.9,asn_L_e,Ele_11767,-0.12035,0.909885,puede secretar o consumir
+Efa + Ele_11767,0.9,dpmn_e,Efa,0.1,1.0,siempre secreta
+Efa + Ele_11767,0.9,dpmn_e,Ele_11767,-1.0,-0.1,siempre consume
+Efa + Ele_11767,0.9,glu_L_e,Efa,-1.0,12.514709,puede secretar o consumir
+Efa + Ele_11767,0.9,glu_L_e,Ele_11767,-13.514709,0.0,puede consumir
+Efa + Ele_11767,0.9,lac_L_e,Efa,12.331283,76.644997,siempre secreta
+Efa + Ele_11767,0.9,lac_L_e,Ele_11767,-76.644997,-12.331283,siempre consume
+Efa + Ele_11767,0.9,leu_L_e,Efa,-0.387389,1.661877,puede secretar o consumir
+Efa + Ele_11767,0.9,leu_L_e,Ele_11767,-0.254759,18.394092,puede secretar o consumir
+Efa + Ele_11767,0.9,orn_L_e,Efa,-0.787322,2.357303,puede secretar o consumir
+Efa + Ele_11767,0.9,orn_L_e,Ele_11767,-2.357303,0.787322,puede secretar o consumir
+Efa + Ele_11767,0.9,pro_L_e,Efa,-12.45213,0.0,puede consumir
+Efa + Ele_11767,0.9,pro_L_e,Ele_11767,-0.47677,12.003231,puede secretar o consumir
+Efa + Ele_11767,0.9,tyr_L_e,Efa,-0.94585,5.076514,puede secretar o consumir
+Efa + Ele_11767,0.9,tyr_L_e,Ele_11767,-0.072319,0.94585,puede secretar o consumir
+Efa + Ele_2243,0.5,2obut_e,Efa,0.002612,22.610654,siempre secreta
+Efa + Ele_2243,0.5,2obut_e,Ele_2243,-1.158128,-3.2e-05,siempre consume
+Efa + Ele_2243,0.5,dpmn_e,Efa,0.1,1.0,siempre secreta
+Efa + Ele_2243,0.5,dpmn_e,Ele_2243,-1.0,-0.1,siempre consume
+Efa + Ele_2243,0.5,for_e,Efa,-8.62176,76.895205,puede secretar o consumir
+Efa + Ele_2243,0.5,for_e,Ele_2243,-72.312915,71.765842,puede secretar o consumir
+Efa + Ele_2243,0.5,h_e,Efa,-36.04147,175.808907,puede secretar o consumir
+Efa + Ele_2243,0.5,h_e,Ele_2243,-78.702926,70.949237,puede secretar o consumir
+Efa + Ele_2243,0.5,lac_L_e,Efa,-10.140418,71.848165,puede secretar o consumir
+Efa + Ele_2243,0.5,lac_L_e,Ele_2243,-71.848165,10.140418,puede secretar o consumir
+Efa + Ele_2243,0.5,mqn8_e,Efa,-0.006389,0.840814,puede secretar o consumir
+Efa + Ele_2243,0.5,mqn8_e,Ele_2243,-0.000583,0.072161,puede secretar o consumir
+Efa + Ele_2243,0.5,o2_e,Efa,-0.036994,0.0,puede consumir
+Efa + Ele_2243,0.5,o2_e,Ele_2243,0.0,0.036994,puede secretar
+Efa + Ele_2243,0.5,orn_L_e,Efa,-0.085785,3.24415,puede secretar o consumir
+Efa + Ele_2243,0.5,orn_L_e,Ele_2243,-2.835698,0.085785,puede secretar o consumir
+Efa + Ele_2243,0.5,pi_e,Efa,-1.998877,-0.817251,siempre consume
+Efa + Ele_2243,0.5,pi_e,Ele_2243,-0.182749,0.998877,puede secretar o consumir
+Efa + Ele_2243,0.9,2obut_e,Efa,0.005193,5.551071,siempre secreta
+Efa + Ele_2243,0.9,2obut_e,Ele_2243,-0.434989,-0.000507,siempre consume
+Efa + Ele_2243,0.9,7a_czp_e,Efa,-97.022869,97.022869,puede secretar o consumir
+Efa + Ele_2243,0.9,7a_czp_e,Ele_2243,-97.022869,97.022869,puede secretar o consumir
+Efa + Ele_2243,0.9,adn_e,Efa,-1.597503,1.372522,puede secretar o consumir
+Efa + Ele_2243,0.9,adn_e,Ele_2243,0.064431,0.597503,siempre secreta
+Efa + Ele_2243,0.9,czp_e,Efa,-97.022869,97.022869,puede secretar o consumir
+Efa + Ele_2243,0.9,czp_e,Ele_2243,-97.022869,97.022869,puede secretar o consumir
+Efa + Ele_2243,0.9,dpmn_e,Efa,0.1,1.0,siempre secreta
+Efa + Ele_2243,0.9,dpmn_e,Ele_2243,-1.0,-0.1,siempre consume
+Efa + Ele_2243,0.9,fru_e,Efa,-2.0,2.098411,puede secretar o consumir
+Efa + Ele_2243,0.9,fru_e,Ele_2243,0.0,1.0,puede secretar
+Efa + Ele_2243,0.9,gal_e,Efa,-2.0,0.0,puede consumir
+Efa + Ele_2243,0.9,gal_e,Ele_2243,0.0,1.0,puede secretar
+Efa + Ele_2243,0.9,hxan_e,Efa,-0.862834,4.035855,puede secretar o consumir
+Efa + Ele_2243,0.9,hxan_e,Ele_2243,-0.598125,-0.137166,siempre consume
+Efa + Ele_2243,0.9,lac_L_e,Efa,-8.136314,34.545748,puede secretar o consumir
+Efa + Ele_2243,0.9,lac_L_e,Ele_2243,-34.545748,8.136314,puede secretar o consumir
+Efa + Ele_2243,0.9,orn_L_e,Efa,-0.082068,2.759435,puede secretar o consumir
+Efa + Ele_2243,0.9,orn_L_e,Ele_2243,-2.471949,0.082068,puede secretar o consumir
+Efa + Ele_2243,0.9,pi_e,Efa,-1.997944,-1.624966,siempre consume
+Efa + Ele_2243,0.9,pi_e,Ele_2243,0.624966,0.997944,siempre secreta
+Efa + Ele_2243,0.9,succ_e,Efa,0.0,12.984009,puede secretar
+Efa + Ele_2243,0.9,succ_e,Ele_2243,-4.077921,12.118085,puede secretar o consumir
+Efm + Ele_A2,0.5,adn_e,Efm,-5.745425,5.360907,puede secretar o consumir
+Efm + Ele_A2,0.5,adn_e,Ele_A2,0.0,4.745425,puede secretar
+Efm + Ele_A2,0.5,ala_L_e,Efm,-6.87556,34.016637,puede secretar o consumir
+Efm + Ele_A2,0.5,ala_L_e,Ele_A2,-0.216995,5.87556,puede secretar o consumir
+Efm + Ele_A2,0.5,dpmn_e,Efm,0.1,1.0,siempre secreta
+Efm + Ele_A2,0.5,dpmn_e,Ele_A2,-1.0,-0.1,siempre consume
+Efm + Ele_A2,0.5,h2o_e,Efm,-39.573801,103.136288,puede secretar o consumir
+Efm + Ele_A2,0.5,h2o_e,Ele_A2,-90.076608,67.090484,puede secretar o consumir
+Efm + Ele_A2,0.5,hxan_e,Efm,-1.0,11.334882,puede secretar o consumir
+Efm + Ele_A2,0.5,hxan_e,Ele_A2,-4.752832,0.0,puede consumir
+Efm + Ele_A2,0.5,lac_L_e,Efm,-25.583449,85.782832,puede secretar o consumir
+Efm + Ele_A2,0.5,lac_L_e,Ele_A2,-85.188685,25.583449,puede secretar o consumir
+Efm + Ele_A2,0.5,leu_L_e,Efm,-0.274422,1.922163,puede secretar o consumir
+Efm + Ele_A2,0.5,leu_L_e,Ele_A2,-0.208903,29.669658,puede secretar o consumir
+Efm + Ele_A2,0.5,orn_L_e,Efm,-0.112155,6.65063,puede secretar o consumir
+Efm + Ele_A2,0.5,orn_L_e,Ele_A2,-6.65063,0.971018,puede secretar o consumir
+Efm + Ele_A2,0.5,ser_L_e,Efm,-28.821698,7.840449,puede secretar o consumir
+Efm + Ele_A2,0.5,ser_L_e,Ele_A2,-8.840449,27.821698,puede secretar o consumir
+Efm + Ele_A2,0.9,adn_e,Efm,-2.325896,4.25238,puede secretar o consumir
+Efm + Ele_A2,0.9,adn_e,Ele_A2,0.002273,1.325896,siempre secreta
+Efm + Ele_A2,0.9,ala_L_e,Efm,-6.738255,31.331107,puede secretar o consumir
+Efm + Ele_A2,0.9,ala_L_e,Ele_A2,-0.207309,5.738255,puede secretar o consumir
+Efm + Ele_A2,0.9,co2_e,Efm,-16.161651,79.58469,puede secretar o consumir
+Efm + Ele_A2,0.9,co2_e,Ele_A2,-14.913532,81.790771,puede secretar o consumir
+Efm + Ele_A2,0.9,dpmn_e,Efm,0.1,1.0,siempre secreta
+Efm + Ele_A2,0.9,dpmn_e,Ele_A2,-1.0,-0.1,siempre consume
+Efm + Ele_A2,0.9,for_e,Efm,-9.732084,55.698372,puede secretar o consumir
+Efm + Ele_A2,0.9,for_e,Ele_A2,-55.698372,39.485493,puede secretar o consumir
+Efm + Ele_A2,0.9,h2o_e,Efm,10.320117,111.028578,siempre secreta
+Efm + Ele_A2,0.9,h2o_e,Ele_A2,-84.937841,48.406816,puede secretar o consumir
+Efm + Ele_A2,0.9,hxan_e,Efm,-1.0,6.870364,puede secretar o consumir
+Efm + Ele_A2,0.9,hxan_e,Ele_A2,-1.423868,0.0,puede consumir
+Efm + Ele_A2,0.9,lac_L_e,Efm,-1.308088,74.55811,puede secretar o consumir
+Efm + Ele_A2,0.9,lac_L_e,Ele_A2,-74.55811,1.308088,puede secretar o consumir
+Efm + Ele_A2,0.9,leu_L_e,Efm,-0.3423,1.69788,puede secretar o consumir
+Efm + Ele_A2,0.9,leu_L_e,Ele_A2,-0.203885,21.707853,puede secretar o consumir
+Efm + Ele_A2,0.9,pro_L_e,Efm,-0.133325,0.0,puede consumir
+Efm + Ele_A2,0.9,pro_L_e,Ele_A2,-0.377352,8.592291,puede secretar o consumir
+Efm + Ele_A2,0.9,ser_L_e,Efm,-12.818585,7.051669,puede secretar o consumir
+Efm + Ele_A2,0.9,ser_L_e,Ele_A2,-8.051669,11.818585,puede secretar o consumir
+Efm + Ele_A2,0.9,succ_e,Efm,0.0,16.870317,puede secretar
+Efm + Ele_A2,0.9,succ_e,Ele_A2,-1.004238,29.08595,puede secretar o consumir
+Efm + Ele_A2,0.9,tyr_L_e,Efm,-0.955717,9.101293,puede secretar o consumir
+Efm + Ele_A2,0.9,tyr_L_e,Ele_A2,-0.05833,0.955717,puede secretar o consumir
+Efm + Ele_11767,0.5,dpmn_e,Efm,0.1,1.0,siempre secreta
+Efm + Ele_11767,0.5,dpmn_e,Ele_11767,-1.0,-0.1,siempre consume
+Efm + Ele_11767,0.5,h2o_e,Efm,-39.632791,103.333414,puede secretar o consumir
+Efm + Ele_11767,0.5,h2o_e,Ele_11767,-90.085343,67.083537,puede secretar o consumir
+Efm + Ele_11767,0.5,h_e,Efm,-116.517888,167.123303,puede secretar o consumir
+Efm + Ele_11767,0.5,h_e,Ele_11767,-85.050037,67.022556,puede secretar o consumir
+Efm + Ele_11767,0.5,lac_L_e,Efm,-25.615327,85.76884,puede secretar o consumir
+Efm + Ele_11767,0.5,lac_L_e,Ele_11767,-85.174258,25.615327,puede secretar o consumir
+Efm + Ele_11767,0.5,leu_L_e,Efm,-0.275667,1.923316,puede secretar o consumir
+Efm + Ele_11767,0.5,leu_L_e,Ele_11767,-0.211453,29.672214,puede secretar o consumir
+Efm + Ele_11767,0.5,orn_L_e,Efm,-0.112664,6.651694,puede secretar o consumir
+Efm + Ele_11767,0.5,orn_L_e,Ele_11767,-6.651694,0.97165,puede secretar o consumir
+Efm + Ele_11767,0.5,succ_e,Efm,0.0,21.976971,puede secretar
+Efm + Ele_11767,0.5,succ_e,Ele_11767,-1.004378,38.845497,puede secretar o consumir
+Efm + Ele_11767,0.5,tyr_L_e,Efm,-0.99992,11.633242,puede secretar o consumir
+Efm + Ele_11767,0.5,tyr_L_e,Ele_11767,-0.060438,0.99992,puede secretar o consumir
+Efm + Ele_11767,0.9,dpmn_e,Efm,0.1,1.0,siempre secreta
+Efm + Ele_11767,0.9,dpmn_e,Ele_11767,-1.0,-0.1,siempre consume
+Efm + Ele_11767,0.9,h2o_e,Efm,10.499969,111.001357,siempre secreta
+Efm + Ele_11767,0.9,h2o_e,Ele_11767,-84.968672,48.242941,puede secretar o consumir
+Efm + Ele_11767,0.9,h_e,Efm,-111.726895,130.520994,puede secretar o consumir
+Efm + Ele_11767,0.9,h_e,Ele_11767,-62.985863,51.145532,puede secretar o consumir
+Efm + Ele_11767,0.9,lac_L_e,Efm,-1.290667,74.428259,puede secretar o consumir
+Efm + Ele_11767,0.9,lac_L_e,Ele_11767,-74.428259,1.290667,puede secretar o consumir
+Efm + Ele_11767,0.9,leu_L_e,Efm,-0.3423,1.697957,puede secretar o consumir
+Efm + Ele_11767,0.9,leu_L_e,Ele_11767,-0.206349,21.680103,puede secretar o consumir
+Efm + Ele_11767,0.9,orn_L_e,Efm,-0.139898,1.938806,puede secretar o consumir
+Efm + Ele_11767,0.9,orn_L_e,Ele_11767,-1.938806,0.866229,puede secretar o consumir
+Efm + Ele_11767,0.9,ser_L_e,Efm,-12.764064,7.032462,puede secretar o consumir
+Efm + Ele_11767,0.9,ser_L_e,Ele_11767,-8.032462,11.764064,puede secretar o consumir
+Efm + Ele_11767,0.9,succ_e,Efm,0.0,16.819088,puede secretar
+Efm + Ele_11767,0.9,succ_e,Ele_11767,-1.00428,29.030999,puede secretar o consumir
+Efm + Ele_11767,0.9,tyr_L_e,Efm,-0.955062,9.075534,puede secretar o consumir
+Efm + Ele_11767,0.9,tyr_L_e,Ele_11767,-0.059036,0.955062,puede secretar o consumir
+Efm + Ele_2243,0.5,dpmn_e,Efm,0.1,1.0,siempre secreta
+Efm + Ele_2243,0.5,dpmn_e,Ele_2243,-1.0,-0.1,siempre consume
+Efm + Ele_2243,0.5,h2o_e,Efm,-100.164606,165.086375,puede secretar o consumir
+Efm + Ele_2243,0.5,h2o_e,Ele_2243,-143.708935,120.705762,puede secretar o consumir
+Efm + Ele_2243,0.5,hxan_e,Efm,-0.99994,8.131142,puede secretar o consumir
+Efm + Ele_2243,0.5,hxan_e,Ele_2243,-0.599165,-6e-05,siempre consume
+Efm + Ele_2243,0.5,lac_L_e,Efm,-10.288359,73.035048,puede secretar o consumir
+Efm + Ele_2243,0.5,lac_L_e,Ele_2243,-73.035048,10.288359,puede secretar o consumir
+Efm + Ele_2243,0.5,pi_e,Efm,-1.020064,-0.792687,siempre consume
+Efm + Ele_2243,0.5,pi_e,Ele_2243,-0.207313,0.999084,puede secretar o consumir
+Efm + Ele_2243,0.5,succ_e,Efm,0.0,22.622851,puede secretar
+Efm + Ele_2243,0.5,succ_e,Ele_2243,-4.078101,35.440437,puede secretar o consumir
+Efm + Ele_2243,0.9,2obut_e,Efm,0.0,0.12269,puede secretar
+Efm + Ele_2243,0.9,2obut_e,Ele_2243,-0.420168,-0.000431,siempre consume
+Efm + Ele_2243,0.9,adn_e,Efm,-1.59797,4.21398,puede secretar o consumir
+Efm + Ele_2243,0.9,adn_e,Ele_2243,0.064976,0.59797,siempre secreta
+Efm + Ele_2243,0.9,anzp_e,Efm,-118.592542,118.592542,puede secretar o consumir
+Efm + Ele_2243,0.9,anzp_e,Ele_2243,-118.592542,118.592542,puede secretar o consumir
+Efm + Ele_2243,0.9,dpmn_e,Efm,0.1,1.0,siempre secreta
+Efm + Ele_2243,0.9,dpmn_e,Ele_2243,-1.0,-0.1,siempre consume
+Efm + Ele_2243,0.9,h2o_e,Efm,-2.751285,176.986438,puede secretar o consumir
+Efm + Ele_2243,0.9,h2o_e,Ele_2243,-103.365711,84.693748,puede secretar o consumir
+Efm + Ele_2243,0.9,hxan_e,Efm,-0.861766,6.460086,puede secretar o consumir
+Efm + Ele_2243,0.9,hxan_e,Ele_2243,-0.598476,-0.138234,siempre consume
+Efm + Ele_2243,0.9,lac_L_e,Efm,-8.25753,71.101973,puede secretar o consumir
+Efm + Ele_2243,0.9,lac_L_e,Ele_2243,-71.101973,8.25753,puede secretar o consumir
+Efm + Ele_2243,0.9,nzp_e,Efm,-118.592542,118.592542,puede secretar o consumir
+Efm + Ele_2243,0.9,nzp_e,Ele_2243,-118.592542,118.592542,puede secretar o consumir
+Efm + Ele_2243,0.9,pi_e,Efm,-1.834594,-1.618527,siempre consume
+Efm + Ele_2243,0.9,pi_e,Ele_2243,0.618527,0.998329,siempre secreta
+Efm + Ele_2243,0.9,succ_e,Efm,0.0,16.842513,puede secretar
+Efm + Ele_2243,0.9,succ_e,Ele_2243,-4.077896,32.561563,puede secretar o consumir
