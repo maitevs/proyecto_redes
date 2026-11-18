@@ -1,0 +1,23 @@
+metabolito,nombre,reacciones_fuera_biomasa,reacciones
+pep_c,Phosphoenolpyruvate,24,"ACGApts, MALTpts, ENO, GAMpts, MANpts"
+pgai15_c,"Phosphatidylglycerol (12-methyl-tetradecanoyl, anteiso-C15)",2,"PGPPAI15, CLPNSAI15"
+pgai17_c,"Phosphatidylglycerol (14-methyl-hexadecanoyl, anteiso-C17)",2,"CLPNSAI17, PGPPAI17"
+pgi14_c,"Phosphatidylglycerol (12-methyltridecanoyl, iso-C14)",2,"PGPPI14, CLPNSI14"
+pgi15_c,"Phosphatidylglycerol (13-methyltetradecanoyl, iso-C15)",2,"CLPNSI15, PGPPI15"
+pgi16_c,"Phosphatidylglycerol (14-methylpentadecanoyl, iso-C16)",2,"PGPPI16, CLPNSI16"
+pgi17_c,"Phosphatidylglycerol (15-methyl-hexadecanoyl, iso-C17)",2,"CLPNSI17, PGPPI17"
+pendp_c,All-trans-Pentaprenyl diphosphate,2,"PPTT, GGTT"
+PGPm1_c,Peptidoglycan polymer (n-1 subunits),5,"TECAGE, TECAAE, sink_PGPm1_c_, TECAUE, PEPGLY"
+PGP_c,Peptidoglycan polymer (n subunits),1,PEPGLY
+pgpai15_c,"Phosphatidylglycerophosphate (12-methyl-tetradecanoyl, anteiso-C15)",2,"PGSAAI15, PGPPAI15"
+pgpai17_c,"Phosphatidylglycerophosphate (14-methyl-hexadecanoyl, anteiso-C17)",2,"PGPPAI17, PGSAAI17"
+pgpi14_c,"Phosphatidylglycerophosphate (12-methyltridecanoyl, iso-C14)",2,"PGSAI14, PGPPI14"
+pgpi15_c,"Phosphatidylglycerophosphate (13-methyltetradecanoyl, iso-C15)",2,"PGPPI15, PGSAI15"
+pgpi16_c,"Phosphatidylglycerophosphate (14-methylpentadecanoyl, iso-C16)",2,"PGSAI16, PGPPI16"
+pgpi17_c,"Phosphatidylglycerophosphate (15-methyl-hexadecanoyl, iso-C17)",2,"PGPPI17, PGSAI17"
+pe180_c,,0,
+peai17_c,,0,
+pei17_c,,0,
+pg180_c,,0,
+pgdnbdg_c,"Pelargonidin 3,5-di-beta-D-glucoside",2,"HCCOAHCT, HCCOAHCLT"
+pgdn3gcg_c,Pelargonidin 3-glucoside 5-caffeoylglucoside,1,HCCOAHCLT

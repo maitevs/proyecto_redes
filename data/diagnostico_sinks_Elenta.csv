@@ -1,0 +1,14 @@
+reaccion,ecuacion,lb,ub,reversible
+DM_atp_c_,atp_c + h2o_c --> adp_c + h_c + pi_c,0.0,1000.0,False
+sink_PGPm1_c_,PGPm1_c <=> ,-1.0,1000.0,True
+DM_clpn180_c_,clpn180_c --> ,0.0,1000.0,False
+DM_clpnai17_c_,clpnai17_c --> ,0.0,1000.0,False
+DM_clpni17_c_,clpni17_c --> ,0.0,1000.0,False
+DM_kdo2lipid4L_c_,kdo2lipid4L_c --> ,0.0,1000.0,False
+DM_teich_45_BS_c_,teich_45_BS_c --> ,0.0,1000.0,False
+DM_cholcoa_c_,chaccoa_c --> ,0.0,1000.0,False
+DM_dcholcoa_c_,cdchaccoa_c --> ,0.0,1000.0,False
+DM_udoholcoa_c_,udchaccoa_c --> ,0.0,1000.0,False
+DM_NA1,na1_c --> ,0.0,1000.0,False
+DM_this_c_,this_c --> ,0.0,1000.0,False
+sink_thissh_c_,thissh_c <=> ,-1.0,1000.0,True
